@@ -1,0 +1,15 @@
+construcción de modelo relacional
+
+Usaremos siempre relaciones con el fin de crear una base de datos completa, funcional y que sea tal cual como el cliente necesite.
+
+Para ello usaremos las reglas de negocio asignadas y siguiendo estas pautas:
+Creando una lógica de uso con todos los procesos necesarios
+Crear las tablas
+Asignar elementos
+Dar valores a los elementos
+Establecer la relación
+No duplicar elementos
+Siempre que se tenga una conexión muchos a muchos o 0 a muchos es mejor usar una tabla cruzada
+
+
+Las tablas cruzadas se usan cuando hay una relación muchos a muchos
