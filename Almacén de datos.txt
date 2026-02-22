@@ -1,0 +1,20 @@
+Almacén de datos
+
+Como administrador de bases de datos hay que estar encargados de los data warehouse, para saber sus aplicaciones y tener análisis mas profesionales. 
+Son una base de datos orientada al análisis de la información y solo se enfoca en extraer y manejar información importante.
+
+Para realizar esto hay que:
+1-) Orientado a temas: Todos los temas deben estar orientados a los temas a analizar
+2-) Variante en el tiempo: Los cambios deben estar registrados para evitar perdidas de información. 
+3-) No volátil: La información no se modifica ni se elimina, solo es de lectura. 
+
+Conteniendo los datos útiles del negocio que serán utilizados a futuro mediante análisis.
+
+Usando el principio de separación de los datos para mantener un análisis limpio, seguro y profesional: El cual dice que se deben separar los datos usados en las operaciones de las bases de datos de los datos que se guardan en el almacen para que no coincidan.
+De esta manera se usa: 
+
+La extracción de los datos almacenados
+Transformación de los datos al data warehouse
+Y la carga depositando los datos en el almacen
+
+Otro concepto importante son los datamarts que son pequeñas bases de datos con información especifica y que usa información de los data warehouse donde solo una limitada cantidad de información 
