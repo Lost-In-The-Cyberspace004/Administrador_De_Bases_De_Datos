@@ -1,0 +1,16 @@
+Lenguaje estructurado de consulta (SQL)
+
+Para consular y almacenar información
+
+Que es SQL?
+Es utilizado para la programación de la base de datos
+Se divide en: Lenguaje de definición de datos que sirve para crear, modificar o borrar una base de datos.
+
+-CREATE: crear bases de datos
+-ALTER: Modificar la estructura de una tabla de datos u objetos tanto añadir, eliminar etc...
+-DROP: Eliminar un objeto de la base de datos
+-TRUNCATE: borra todo el contenido de una tabla
+-INSERT: insertar elementos a una tabla
+-UPDATE: Actualizar elementos a una tabla
+-DELETE: Eliminar elementos a una tabla
+-SELECT: buscar elementos de una tabla

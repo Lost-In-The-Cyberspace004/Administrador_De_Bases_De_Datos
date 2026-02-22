@@ -1,0 +1,8 @@
+Requerimientos del cliente
+
+1-) preguntarle al cliente como se desempeña su negocio
+2-) Si el cliente quiere migrar el sistema pídele toda la información existente
+3-) Anotar todo lo importante cuando te den información u observes el proceso del negocio, además de responder tus propias dudas y no dar cosas por sentado. 
+4-) Preparar cuestionarios para dar respuestas a las preguntas y puntos ciegos
+5-) Hacer una presentación y exponerla al cliente para así darle a conocer tus puntos, recibir correcciones y solucionar dudas en ambas direcciones
+6-) Tener en cuenta que todos cambia asi que no hay que aferrarse tanto a una idea y estar listo para actualizaciones, cambios, eliminaciones etc...  

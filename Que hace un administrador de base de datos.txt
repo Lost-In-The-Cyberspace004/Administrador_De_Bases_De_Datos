@@ -1,0 +1,8 @@
+¿Qué hace un administrador de base de datos?
+
+Manejo de datos para el análisis o aplicaciones
+Aplica la metodología de extracción de datos
+transformarlos en repositorios de información para realizar búsquedas y uso para su insteccion. Estando normalizada con todo proceso de modificación de la organización de tal manera que actualice sus datos y den resultados.
+Usando un gestor de base de datos.
+
+Tendrá información que no nos pertenece y por ello no se debe compartir sin autorización, sin borrarla, no copiarla, si se encuentra alguna anomalia hay que reportarla, todo dispositivo que posea acceso a la base de datos debe mantenerse bajo control y que este dentro del rango de permiso establecido por un superior. 

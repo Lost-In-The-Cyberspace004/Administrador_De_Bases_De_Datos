@@ -1,0 +1,14 @@
+Esquemas de almacenes de datos
+
+Estas hechos para básicamente responder cualquier duda que tenga el personal en cuanto a la información sobre el funcionamento de la empresa.
+También se usan con información relevante para la toma de decisiones.
+Para ello se usan esquemas de construcción de estos elementos.
+
+Esquema de estrella: Es el mas simple de todos ya que hay una tabla central (hechos) principal que se conecta con tablas externas (dimensiones).
+Este esquema es básicamente tablas cruzadas donde la central se conecta mediante sus llaves primarias.
+
+Esquema de copo de nieve: En este no hay un centro y trata de segmentar información de tablas con otras tablas si esta información es muy extensa.
+Además de ahorrar espacio en memoria ya que al dividirse la información
+el espacio ocupado se reduce, sin embargo tarda mucho tiempo en buscarse la información que se necesita. 
+
+Esquema de constelación: Es mas complejo ya que cuenta con mas de una tabla de hechos, sin embargo se usa cuando se necesita información especifica para un tema especifico con sus propias dimensiones además de usar información de otras dimensiones. 

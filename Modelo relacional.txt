@@ -1,0 +1,26 @@
+Modelo relacional
+
+Basa su lógica en las relaciones entre todas sus tablas
+Tablas que poseen elementos con valores.
+
+Se empieza desde la llave primaria (id)
+Luego las llaves foráneas
+Y por ultimo sus elementos con valores
+
+La cardinalidad es la linea que relaciona las tablas de elemento entre si
+Podemos encontrar. 
+
+De uno - en uno
+Donde los elementos de una tabla solo pueden tener una sola relación con otro elemento único de otra tabla
+
+De uno a muchos
+Es lo opuesto a lo anterior donde los elementos tienen muchas conexiones entre si
+
+De muchos a muchos
+Cuando los elementos se conectan con bastantes elementos de otra tabla al mismo tiempo.
+
+De 1 o 0 a muchos
+Cuando un elemento se conecta a muchos o a ninguno
+
+De muchos a 0 o muchos
+Lo mismo que lo anterior
